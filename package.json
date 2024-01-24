@@ -22,7 +22,7 @@
   "author": "Zeeoneofc",
   "license": "ISC",
   "dependencies": {
-    "@bochilteam/scraper": "^3.0.0",
+    "@bochilteam/scraper": "git@github.com:BochilTeam/scraper.git",
     "axios": "^0.21.1",
     "cookie": "^0.5.0",
     "crypto": "^1.0.1",
